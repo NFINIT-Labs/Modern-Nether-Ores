@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "modernnetherores:nether_iron_ore",
+    "modernnetherores:nether_iron_ore_basalt",
+    "modernnetherores:nether_iron_ore_blackstone",
+    "modernnetherores:nether_copper_ore",
+    "modernnetherores:nether_copper_ore_basalt",
+    "modernnetherores:nether_copper_ore_blackstone",
+    "modernnetherores:nether_coal_ore",
+    "modernnetherores:nether_coal_ore_basalt",
+    "modernnetherores:nether_coal_ore_blackstone",
+    "modernnetherores:nether_diamond_ore",
+    "modernnetherores:nether_diamond_ore_basalt",
+    "modernnetherores:nether_diamond_ore_blackstone", 
+    "modernnetherores:nether_emerald_ore",
+    "modernnetherores:nether_emerald_ore_basalt",
+    "modernnetherores:nether_emerald_ore_blackstone",    
+    "modernnetherores:nether_lapis_ore",
+    "modernnetherores:nether_lapis_ore_basalt",
+    "modernnetherores:nether_lapis_ore_blackstone", 
+    "modernnetherores:nether_redstone_ore",
+    "modernnetherores:nether_redstone_ore_basalt",
+    "modernnetherores:nether_redstone_ore_blackstone"
+
+  ]
+}

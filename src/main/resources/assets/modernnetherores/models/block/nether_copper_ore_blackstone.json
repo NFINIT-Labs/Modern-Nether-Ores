@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/blackstone_top",
+    "side": "modernnetherores:blocks/nether_copper_ore_blackstone",
+    "front": "modernnetherores:blocks/nether_copper_ore_blackstone"
+  }
+}

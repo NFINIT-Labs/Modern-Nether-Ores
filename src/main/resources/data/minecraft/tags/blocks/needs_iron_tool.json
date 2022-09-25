@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "modernnetherores:nether_diamond_ore",
+    "modernnetherores:nether_diamond_ore_basalt",
+    "modernnetherores:nether_diamond_ore_blackstone",
+    "modernnetherores:nether_emerald_ore",
+    "modernnetherores:nether_emerald_ore_basalt",
+    "modernnetherores:nether_emerald_ore_blackstone"
+  ]
+}
